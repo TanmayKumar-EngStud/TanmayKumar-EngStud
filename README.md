@@ -6,7 +6,6 @@ Hello World, I am Tanmay Kumar
 
 An introvert, a computer science enthusiast, and a Maker
 <table>
-<caption>Tanmay Kumar</caption>
 <thead>
 <tr>
 <th colspan="2">Quick Info</th>

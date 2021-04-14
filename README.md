@@ -41,8 +41,9 @@ An introvert, a computer science enthusiast, and a Maker
 ## 3 ways to contact me
 
 <ul>
-<li><a href="mailto:tanmay44a@gmail.com" rel="me">Mail</a>
-<li><a href="https://www.instagram.com/Tanmay._.kumar.__/" rel="me">Instagram DM</a>
+<li><a href="mailto:tanmay44a@gmail.com" rel="me">Mail</a></li>
+<li><a href="https://www.instagram.com/Tanmay._.kumar.__/" rel="me">Instagram DM</a></li>
 <li><a href="https://wa.me/7296876969?text=Hi" rel="me">Whatsapp</a>
-</li><a href="https://www.linkedin.com/in/tanmay-kumar-55a8a81a5" rel="me">LinkedIn</a>
+</li>
+<li><a href="https://www.linkedin.com/in/tanmay-kumar-55a8a81a5" rel="me">LinkedIn</a> </li>
 </ul>

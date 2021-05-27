@@ -37,7 +37,7 @@ An introvert, a computer science enthusiast, and a Maker
 - [X] Game Development
 - [ ] Ethical Hacking
 - [ ] Reinforcement Learning
-- [ ] Java Development
+- [X] Java Development
 - [ ] C++ development projects
 <br><br>
 ## 3 ways to contact me

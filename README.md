@@ -40,7 +40,7 @@ An introvert, a computer science enthusiast, and a Maker
 - [X] Java Development
 - [ ] C++ development projects
 <br><br>
-## 3 ways to contact me
+## 4 ways to contact me
 
 <ul>
 <li><a href="mailto:tanmay44a@gmail.com" rel="me">Mail</a></li>

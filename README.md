@@ -30,7 +30,7 @@ An introvert, a computer science enthusiast, and a Maker
 ![](https://github-readme-stats.vercel.app/api?username=TanmayKumar-EngStud&hide=stars,issues)
 
 ## Top Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayKumar-EngStud&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayKumar-EngStud)
 ## tasks
 - [X] Deep Learning
 - [ ] Machine Learning 

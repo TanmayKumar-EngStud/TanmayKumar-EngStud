@@ -39,6 +39,7 @@ An introvert, a computer science enthusiast, and a Maker
 - [ ] Reinforcement Learning
 - [X] Java Development
 - [ ] C++ development projects
+- [X] Natural Language Processing
 <br><br>
 ## 4 ways to contact me
 

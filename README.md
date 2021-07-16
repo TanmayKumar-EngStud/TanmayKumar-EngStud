@@ -17,7 +17,7 @@ An introvert, a computer science enthusiast, and a Maker
 <tr><th scope='row'>Education</th><td>B.Tech</td></tr>
 <tr><th scope='row'>Alma mater</th><td>Vellore Institute of Technology</td></tr>
 <tr><th scope='row'>Nationality</th><td>Indian</td></tr>
-<tr><th scope='row'>Skills</th><td>C#,C++,Python,JAVA, Database Management, Deep Learning, Game Development,Natural Language Processing</td></tr>
+<tr><th scope='row'>Skills</th><td>C#,C++,Python,JAVA, Database Management, Deep Learning, Game Development, Natural Language Processing</td></tr>
 </tbody>
 </table>
 

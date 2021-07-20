@@ -15,7 +15,7 @@ An introvert, a computer science enthusiast, and a Maker
 <tr><th scope='row'>Name</th><td>Tanmay Kumar</td></tr>
 <tr><th scope='row'>Born</th><td><time datetime="2001-10-18 08:00">18 October, 2001</time></td></tr>
 <tr><th scope='row'>Education</th><td>B.Tech</td></tr>
-<tr><th scope='row'>Alma mater</th><td>Vellore Institute of Technology</td></tr>
+<tr><th scope='row'>University</th><td>Vellore Institute of Technology</td></tr>
 <tr><th scope='row'>Nationality</th><td>Indian</td></tr>
 <tr><th scope='row'>Skills</th><td>C#,C++,Python,JAVA, Database Management, Deep Learning, Game Development, Natural Language Processing</td></tr>
 </tbody>

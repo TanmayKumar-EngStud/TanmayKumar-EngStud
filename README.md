@@ -41,7 +41,7 @@ An introvert, a computer science enthusiast, and a Maker
 - [ ] C++ development projects
 - [X] Natural Language Processing
 <br><br>
-## 4 ways to contact me
+## 3 ways to contact me
 
 <ul>
 <li><a href="mailto:tanmay44a@gmail.com" rel="me">Mail</a></li>

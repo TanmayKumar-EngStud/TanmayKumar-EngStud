@@ -40,6 +40,7 @@ An introvert, a computer science enthusiast, and a Maker
 - [X] Java Development
 - [ ] C++ development projects
 - [X] Natural Language Processing
+- [X] Web Development
 <br><br>
 ## 3 ways to contact me
 

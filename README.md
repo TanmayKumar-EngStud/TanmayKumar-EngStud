@@ -21,11 +21,6 @@ An introvert, a computer science enthusiast, and a Maker
 </tbody>
 </table>
 
-## my octocat
-<p align = "center">
-<img src = "https://user-images.githubusercontent.com/72539289/114390435-e5b18600-9bb3-11eb-9240-203005e38b7e.jpg" width="250" height="250" />
-</p>
-
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=TanmayKumar-EngStud&hide=stars,issues)
 

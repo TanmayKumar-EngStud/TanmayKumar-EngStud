@@ -38,7 +38,7 @@ An introvert, a computer science enthusiast, and a Maker
 - [X] Web Development
 - [X] Competitive programming
 
-Come on, leetcode with ![me!!](https://leetcode.com/TanmayKumar/)
+Come on, leetcode with <a href="https://leetcode.com/TanmayKumar/">me!!</a>
 
 <br><br>
 ## 3 ways to contact me

@@ -26,7 +26,7 @@ An introvert, a computer science enthusiast, and a Maker
 
 ## Top Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayKumar-EngStud)
-## tasks
+## Interests that are currently active
 - [X] Deep Learning
 - [ ] Machine Learning 
 - [X] Game Development
@@ -36,6 +36,10 @@ An introvert, a computer science enthusiast, and a Maker
 - [ ] C++ development projects
 - [X] Natural Language Processing
 - [X] Web Development
+- [X] Competitive programming
+
+Come on, leetcode with ![me!!](https://leetcode.com/TanmayKumar/)
+
 <br><br>
 ## 3 ways to contact me
 

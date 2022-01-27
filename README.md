@@ -38,6 +38,12 @@ An introvert, a computer science enthusiast, and a Maker
 - [X] Web Development
 - [X] Competitive programming
 
+
+[<img src="https://api.speedtyper.dev/users/TanmayKumar-EngStud/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="25">](https://www.speedtyper.dev/profile/TanmayKumar-EngStud) 
+[<img src="https://api.speedtyper.dev/users/TanmayKumar-EngStud/badges/topwpm" alt="SpeedTyper.dev top wpm" height="25">](https://www.speedtyper.dev/profile/TanmayKumar-EngStud) 
+[<img src="https://api.speedtyper.dev/users/TanmayKumar-EngStud/badges/gamecount" alt="SpeedTyper.dev games" height="25">](https://www.speedtyper.dev/profile/TanmayKumar-EngStud)
+
+
 Come on, leetcode with <a href="https://leetcode.com/TanmayKumar/">me!!</a>
 
 <br><br>

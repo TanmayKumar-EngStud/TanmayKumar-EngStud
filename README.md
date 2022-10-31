@@ -4,7 +4,7 @@
 
 Hello World, I am Tanmay Kumar
 
-An introvert, a computer science enthusiast, and a Maker
+An introvert, a computer science enthusiast, and I am currently working upon frontend web development using React
 <table>
 <thead>
 <tr>
@@ -17,32 +17,9 @@ An introvert, a computer science enthusiast, and a Maker
 <tr><th scope='row'>Education</th><td>B.Tech</td></tr>
 <tr><th scope='row'>University</th><td>Vellore Institute of Technology</td></tr>
 <tr><th scope='row'>Nationality</th><td>Indian</td></tr>
-<tr><th scope='row'>Skills</th><td>C#,C++,Python,JAVA, Database Management, Deep Learning, Game Development, Natural Language Processing</td></tr>
+<tr><th scope='row'>Skills</th><td>Java, Javascript, React, python</td></tr>
 </tbody>
 </table>
-
-## Stats
-![](https://github-readme-stats.vercel.app/api?username=TanmayKumar-EngStud&hide=stars,issues)
-
-## Top Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayKumar-EngStud)
-## Interests that are currently active
-- [X] Deep Learning
-- [ ] Machine Learning 
-- [X] Game Development
-- [ ] Ethical Hacking
-- [ ] Reinforcement Learning
-- [X] Java Development
-- [ ] C++ development projects
-- [X] Natural Language Processing
-- [X] Web Development
-- [X] Competitive programming
-
-
-[<img src="https://api.speedtyper.dev/users/TanmayKumar-EngStud/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="25">](https://www.speedtyper.dev/profile/TanmayKumar-EngStud) 
-[<img src="https://api.speedtyper.dev/users/TanmayKumar-EngStud/badges/topwpm" alt="SpeedTyper.dev top wpm" height="25">](https://www.speedtyper.dev/profile/TanmayKumar-EngStud) 
-[<img src="https://api.speedtyper.dev/users/TanmayKumar-EngStud/badges/gamecount" alt="SpeedTyper.dev games" height="25">](https://www.speedtyper.dev/profile/TanmayKumar-EngStud)
-
 
 Come on, leetcode with <a href="https://leetcode.com/TanmayKumar/">me!!</a>
 

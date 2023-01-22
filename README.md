@@ -17,7 +17,7 @@ An introvert, a computer science enthusiast, and I am currently working upon fro
 <tr><th scope='row'>Education</th><td>B.Tech</td></tr>
 <tr><th scope='row'>University</th><td>Vellore Institute of Technology</td></tr>
 <tr><th scope='row'>Nationality</th><td>Indian</td></tr>
-<tr><th scope='row'>Skills</th><td>Java, Javascript, React, python</td></tr>
+<tr><th scope='row'>Skills</th><td>c++, Javascript, React, python</td></tr>
 </tbody>
 </table>
 

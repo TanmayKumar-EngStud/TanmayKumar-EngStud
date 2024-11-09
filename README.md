@@ -3,28 +3,8 @@
 ## about Me
 
 Hello World, I am Tanmay Kumar
-
-An introvert, a computer science enthusiast, and I am currently working upon frontend web development using React
-<table>
-<thead>
-<tr>
-<th colspan="2">Quick Info</th>
-</tr>
-</thead>
-<tbody>
-<tr><th scope='row'>Name</th><td>Tanmay Kumar</td></tr>
-<tr><th scope='row'>Born</th><td><time datetime="2001-10-18 08:00">18 October, 2001</time></td></tr>
-<tr><th scope='row'>Education</th><td>B.Tech</td></tr>
-<tr><th scope='row'>University</th><td>Vellore Institute of Technology</td></tr>
-<tr><th scope='row'>Nationality</th><td>Indian</td></tr>
-<tr><th scope='row'>Skills</th><td>c++, Javascript, React, python</td></tr>
-</tbody>
-</table>
-
-Come on, leetcode with <a href="https://leetcode.com/TanmayKumar/">me!!</a>
-
-<br><br>
-## 3 ways to contact me
+I code whatever I like, I am interested in Logical reasoning and domain specific content generation using Artificial intelligence. 
+## My Contacts:
 
 <ul>
 <li><a href="mailto:tanmay44a@gmail.com" rel="me">Mail</a></li>
